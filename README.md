@@ -1,9 +1,6 @@
 # Refresh Reminder 
-Your digital health monitor :)
+Your digital health monitor :) - Prototype for Innovaccer HackerCamp-2022 (Theme Connecting the virtual Trio- Work , Health & Life)
 
-Website: https://sites.google.com/iiitd.ac.in/des205-t3-paradigmshifters/home
-
-Video: https://youtu.be/f98Y7ksq3Kg
 
 ## What is it?
 
@@ -22,10 +19,6 @@ Refresh Reminder helps users improve not only their physical health but also the
 Homescreen:
 
 ![Alt text](screenshots/ss.png?raw=true "Title")
-
-Settings page:
-
-![Alt text](screenshots/ss2.png?raw=true "Title")
 
 System tray icon:
 
@@ -47,7 +40,7 @@ Blink reminder popup (non-intrusive border style):
 - OS: Windows 10 only
 - Webcam (either inbuilt or external)
 
-If compiling the source code (method #2 of installation):
+If compiling the source code (method #1 of installation):
 - Python 3.9 or higher
 	- PyQt5 toolkit
 	- win10toast library
@@ -59,15 +52,8 @@ If compiling the source code (method #2 of installation):
 
 ## Installation instructions
 
-### 1. Running the executable
-1. Download the .rar from https://drive.google.com/drive/folders/185sIaasrRyNZXbI5dC9ZrfqBN2XG7ua8?usp=sharing
-2. Extract it at the desired location
-3. Run "source/gui.exe"
-
---- or ---
-### 2. Cloning the repository
+### 1. Cloning the repository
 1. Clone the repository
 2. Navigate to /src
 3. Compile and run "gui.py"
 
-<i><b> Feedback, suggestions and contributions are welcome ! :) </b></i>
