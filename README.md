@@ -20,10 +20,6 @@ Homescreen:
 
 ![Alt text](screenshots/ss.png?raw=true "Title")
 
-System tray icon:
-
-![Alt text](screenshots/ss3.png?raw=true "Title")
-
 Break reminder popup (translucent):
 
 ![Alt text](screenshots/ss4.png?raw=true "Title")
